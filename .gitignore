@@ -4,7 +4,6 @@ __pycache__/
 uv.lock
 
 # Secrets & environment
-.env
 
 # Scan outputs & artifacts
 output/
@@ -19,3 +18,5 @@ docs/local/
 # Tooling
 rm_cache.py
 .playwright-mcp/
+config.bat
+node_modules
